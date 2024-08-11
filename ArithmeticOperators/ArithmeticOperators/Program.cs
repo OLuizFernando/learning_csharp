@@ -18,9 +18,8 @@ namespace ArithmeticOperators
             int exampleIntDivision = 5 / 2; // int 5 / 2 = 2
             float exampleFloatDivision = 5 / 2; // float 5 / 2 = 2
             exampleFloatDivision = 5f / 2; // float 5f / 2 = 2.5
-
-            Console.WriteLine(exampleFloatDivision);
-            Console.ReadKey();
+            //                      ^ to get a float result, at least one number in the operation must be a float
+            //                      ^ 5f == 5.0f
         }
     }
 }
