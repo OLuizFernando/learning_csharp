@@ -1,0 +1,7 @@
+C:\repositorios\learning_csharp\variables\variables\bin\Debug\variables.exe.config
+C:\repositorios\learning_csharp\variables\variables\bin\Debug\variables.exe
+C:\repositorios\learning_csharp\variables\variables\bin\Debug\variables.pdb
+C:\repositorios\learning_csharp\variables\variables\obj\Debug\variables.csproj.AssemblyReference.cache
+C:\repositorios\learning_csharp\variables\variables\obj\Debug\variables.csproj.CoreCompileInputs.cache
+C:\repositorios\learning_csharp\variables\variables\obj\Debug\variables.exe
+C:\repositorios\learning_csharp\variables\variables\obj\Debug\variables.pdb
