@@ -1,0 +1,7 @@
+C:\repositorios\learning_csharp\ArithmeticOperators\ArithmeticOperators\bin\Debug\ArithmeticOperators.exe.config
+C:\repositorios\learning_csharp\ArithmeticOperators\ArithmeticOperators\bin\Debug\ArithmeticOperators.exe
+C:\repositorios\learning_csharp\ArithmeticOperators\ArithmeticOperators\bin\Debug\ArithmeticOperators.pdb
+C:\repositorios\learning_csharp\ArithmeticOperators\ArithmeticOperators\obj\Debug\ArithmeticOperators.csproj.AssemblyReference.cache
+C:\repositorios\learning_csharp\ArithmeticOperators\ArithmeticOperators\obj\Debug\ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\repositorios\learning_csharp\ArithmeticOperators\ArithmeticOperators\obj\Debug\ArithmeticOperators.exe
+C:\repositorios\learning_csharp\ArithmeticOperators\ArithmeticOperators\obj\Debug\ArithmeticOperators.pdb
