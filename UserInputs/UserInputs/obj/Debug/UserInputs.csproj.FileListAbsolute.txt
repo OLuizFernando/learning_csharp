@@ -1,0 +1,7 @@
+C:\repositorios\learning_csharp\UserInputs\UserInputs\bin\Debug\UserInputs.exe.config
+C:\repositorios\learning_csharp\UserInputs\UserInputs\bin\Debug\UserInputs.exe
+C:\repositorios\learning_csharp\UserInputs\UserInputs\bin\Debug\UserInputs.pdb
+C:\repositorios\learning_csharp\UserInputs\UserInputs\obj\Debug\UserInputs.csproj.AssemblyReference.cache
+C:\repositorios\learning_csharp\UserInputs\UserInputs\obj\Debug\UserInputs.csproj.CoreCompileInputs.cache
+C:\repositorios\learning_csharp\UserInputs\UserInputs\obj\Debug\UserInputs.exe
+C:\repositorios\learning_csharp\UserInputs\UserInputs\obj\Debug\UserInputs.pdb
