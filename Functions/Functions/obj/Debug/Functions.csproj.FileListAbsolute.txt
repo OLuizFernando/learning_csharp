@@ -1,0 +1,7 @@
+C:\repositorios\learning_csharp\Functions\Functions\bin\Debug\Functions.exe.config
+C:\repositorios\learning_csharp\Functions\Functions\bin\Debug\Functions.exe
+C:\repositorios\learning_csharp\Functions\Functions\bin\Debug\Functions.pdb
+C:\repositorios\learning_csharp\Functions\Functions\obj\Debug\Functions.csproj.AssemblyReference.cache
+C:\repositorios\learning_csharp\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\repositorios\learning_csharp\Functions\Functions\obj\Debug\Functions.exe
+C:\repositorios\learning_csharp\Functions\Functions\obj\Debug\Functions.pdb
